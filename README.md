@@ -26,7 +26,7 @@
     $ python manage.py runserver
     ```
     
-4. To go to:
+## To go to:
   - a. backend:
     ```
       http://localhost:8000/
