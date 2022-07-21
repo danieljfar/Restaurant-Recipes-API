@@ -15,13 +15,18 @@
     $ git clone git@github.com:danieljfar/Restaurant-Recipes-API.git
     ```
 
-2. Run Django -
+2. Install Project Requirements -
     The following command must be run inside the virtual environment 
+    ```bash
+    $ pip install -r requirements.txt
+    ```
+    
+3. Run Django
     ```bash
     $ python manage.py runserver
     ```
     
-5. To go to:
+4. To go to:
   - a. backend:
     ```
       http://localhost:8000/
